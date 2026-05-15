@@ -111,6 +111,17 @@ Grama Suvidha1 provides a digital village dashboard where every panchayat projec
 - QR code at project site to instantly open project details
 
 ---
+## 📸 Screenshots
+
+| Home | Dashboard | Login |
+|---|---|---|
+| ![Home](Screenshots/home.jpeg) | ![Dashboard](Screenshots/dashboard.jpeg) | ![Login](Screenshots/login.jpeg) |
+
+| Gallery | Translate | Firebase |
+|---|---|---|
+| ![Gallery](Screenshots/gallery.jpeg) | ![Translate](Screenshots/translate.jpeg) | ![Firebase](Screenshots/firebase%20(1).jpeg) |
+
+---
 
 ## 👩‍💻 Developed By
 
